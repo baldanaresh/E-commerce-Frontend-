@@ -34,7 +34,7 @@ This project includes essential e-commerce features such as product listings, a 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/modern-ecommerce-website.git
+   git clone https://github.com/baldanaresh/modern-ecommerce-website.git
    cd modern-ecommerce-website
    npm install
    npm run dev
